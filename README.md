@@ -1,7 +1,7 @@
 # ¡Hola a todos! 👋
 
 ¡Bienvenidos a mi perfil de GitHub! Soy Nilson Marenco.
-Destaco por mis habilidades en trabajo en equipo y comunicación. Además, estoy versado en tecnologías como JavaScript, SQL, React, Python, Flask, HTML y CSS, lo que me permite adaptarme y resolver eficazmente diversas necesidades y desafíos.
+"Disfruto trabajando en equipo y comunicándome eficazmente con los demás. También tengo experiencia en tecnologías como JavaScript, SQL, React, Python, Flask, HTML y CSS, lo que me permite enfrentar una variedad de desafíos y adaptarme según sea necesario."
 ## Acerca de mí
 - 👨‍💻 Desarrollador web Full Stack
 
