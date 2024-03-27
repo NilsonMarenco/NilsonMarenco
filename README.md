@@ -3,8 +3,8 @@
 ¡Bienvenidos a mi perfil de GitHub! Soy Nilson Marenco, un apasionado desarrollador web con un gran amor por la tecnología.
 
 ## Acerca de mí
-- 🎹 Pianista 
 - 👨‍💻 Desarrollador web
+- 🎹 Pianista 
 - 🎼 Actualmente incursionando en el desarrollo full stack
 
 ## Intereses
