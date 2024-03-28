@@ -1,16 +1,18 @@
-# ¡Hola a todos! 👋
+# Hello Everyone! 👋
 
-¡Bienvenidos a mi perfil de GitHub! Soy Nilson Marenco.
-"Disfruto trabajando en equipo y comunicándome eficazmente con los demás. También tengo experiencia en tecnologías como JavaScript, SQL, React, Python, Flask, HTML y CSS, lo que me permite enfrentar una variedad de desafíos y adaptarme según sea necesario."
-## Acerca de mí
-- 👨‍💻 Desarrollador web Full Stack
+Welcome to my GitHub profile! I'm Nilson Marenco. "I enjoy working in teams and effectively communicating with others. I also have experience in technologies such as JavaScript, SQL, React, Python, Flask, HTML, and CSS, allowing me to tackle a variety of challenges and adapt as needed."
 
-## Intereses
-- 💻 Desarrollo web
-- 🎵 Música
-- 📱 Tecnología
+## About Me
+👨‍💻 Full Stack Web Developer
 
-## Contáctame
-Puedes contactarme a través de mi correo electrónico: nilsonmarenco@gmail.com
+## Interests
+💻 Web Development
+🎵 Music
+📱 Technology
 
-¡Gracias por visitar mi perfil!
+## Contact Me
+You can reach me via email: nilsonmarenco@gmail.com
+
+Thank you for visiting my profile!
+
+*Animations could be added to make the README more visually appealing.*
