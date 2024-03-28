@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm Nilson Marenco. "I enjoy working in teams and 
 
 ## Contact Me
 You can reach me via email: nilsonmarenco@gmail.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nilsonmarenco/)!
 
 Thank you for visiting my profile!
 
