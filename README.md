@@ -15,4 +15,3 @@ You can reach me via email: nilsonmarenco@gmail.com
 
 Thank you for visiting my profile!
 
-*Animations could be added to make the README more visually appealing.*
