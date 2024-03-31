@@ -16,7 +16,8 @@ You can reach me via email: [✉️ nilsonmarenco@gmail.com](mailto:nilsonmarenc
 Thank you for visiting my profile!
 
 [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css)
-<i class="fas fa-heart"></i>
+![Heart](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css)
+
 
 
 
