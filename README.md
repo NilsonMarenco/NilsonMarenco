@@ -17,5 +17,6 @@ You can reach me via email: <a href="mailto:nilsonmarenco@gmail.com" target="_bl
 Thank you for visiting my profile!
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
 
