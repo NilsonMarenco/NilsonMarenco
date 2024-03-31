@@ -11,13 +11,11 @@ Welcome to my GitHub profile! I'm Nilson Marenco. "I enjoy working in teams and 
 📱 Technology
 
 ## Contact Me
-You can reach me via email: <a href="mailto:nilsonmarenco@gmail.com" target="_blank">✉️ nilsonmarenco@gmail.com</a>  
-
+You can reach me via email: [✉️ nilsonmarenco@gmail.com](mailto:nilsonmarenco@gmail.com)
 
 Thank you for visiting my profile!
 
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+[Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css)
 <i class="fas fa-heart"></i>
 
 
