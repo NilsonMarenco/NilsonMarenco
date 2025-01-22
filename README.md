@@ -51,6 +51,9 @@ Welcome to my GitHub profile! I'm Nilson Marenco. "I enjoy working in teams and 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+  <a href="https://marketingplatform.google.com/intl/es/about/analytics/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-analytics/google-analytics-original.svg" alt="google analytics" width="40" height="40"/>
+</a>
 </p>
 
 ## Contact Me
